@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/new-Repo/static/css/main.df08a136.css",
+    "main.js": "/new-Repo/static/js/main.d69baed3.js",
+    "static/media/Goa.jpg": "/new-Repo/static/media/Goa.603a81f7fd557cc2d851.jpg",
+    "static/media/tcLottery.jpg": "/new-Repo/static/media/tcLottery.d592c860f5e9b2d5f479.jpg",
+    "static/media/Lottery.jpg": "/new-Repo/static/media/Lottery.ab0db682dbf7ce763714.jpg",
+    "static/media/91Club.jpg": "/new-Repo/static/media/91Club.738a5d59ba821f5d8ebe.jpg",
+    "static/media/bdg.jpg": "/new-Repo/static/media/bdg.fe583ee87bc2467a5f35.jpg",
+    "static/media/tiranga.jpg": "/new-Repo/static/media/tiranga.8af96f057c176a3e0177.jpg",
+    "index.html": "/new-Repo/index.html",
+    "main.df08a136.css.map": "/new-Repo/static/css/main.df08a136.css.map",
+    "main.d69baed3.js.map": "/new-Repo/static/js/main.d69baed3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df08a136.css",
+    "static/js/main.d69baed3.js"
+  ]
+}
